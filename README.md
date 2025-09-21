@@ -5,7 +5,7 @@
 ---
 
 ### 👨‍💻 About Me
-- Currently working on: AI-powered legal automation  
+- Currently working on: LLM based AI Workflows for Law firms  
 - Learning: Training and employing models to make decisions.
 - Passionate about: Probabilistic methods and budiling with AI
 - Fun fact: I enjoy solving probability based puzzles and participating in Hackathons [Portfolio](https://devpost.com/arvind-menon/)!
