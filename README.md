@@ -11,7 +11,7 @@
 - Fun fact: I enjoy solving probability based puzzles and participating in Hackathons [Portfolio](https://devpost.com/arvind-menon/)!
 
 ---
-### Other things I wish to make 
+### Other interests
 - Generative Art
 - Youtube videos
 
