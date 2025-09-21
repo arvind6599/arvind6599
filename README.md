@@ -1,22 +1,17 @@
-# Hi there, I'm Arvind 👋
+# Hey, I'm Arvind 👋
 
-🚀 I like Math, AI and Programming. 
-
----
-
-### 👨‍💻 About Me
-- Currently working on: AI Agents/Workflows for law firms  
-- Learning: Training and employing models to make decisions.
-- Passionate about: Probabilistic methods and budiling with AI
-- Fun fact: I enjoy solving probability based puzzles and participating in Hackathons [Portfolio](https://devpost.com/arvind-menon/)!
-
----
-### Other interests
-- Generative Art
-- Youtube videos
+🚀 Math + AI + Programming nerd  
+🧩 Loves probability puzzles & hackathons → [Portfolio](https://devpost.com/arvind-menon/)  
+⚡ Building AI agents & workflows for law firms  
 
 ---
 
-### 🌐 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/arvmenon/)  
-- ✍️ [Blog/Website](https://arvind6599.github.io/) 
+### 🎨 On the side
+- Generative art  
+- Making YouTube videos  
+
+---
+
+### 🌐 Find me
+💼 [LinkedIn](https://www.linkedin.com/in/arvmenon/)  
+✍️ [Blog](https://arvind6599.github.io/)  
