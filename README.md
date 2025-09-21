@@ -14,7 +14,6 @@
 ### Other things I wish to make 
 - Generative Art
 - Youtube videos
-- 
 
 ---
 
