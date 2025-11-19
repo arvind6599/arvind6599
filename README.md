@@ -1,6 +1,6 @@
 # Hey, I'm Arvind 👋
 
-🚀 Math + AI + Programming nerd  
+🚀 Math + AI + Programming  
 🧩 Loves probability puzzles & hackathons → [Portfolio](https://devpost.com/arvind-menon/)  
 ⚡ Building AI agents & workflows for law firms  
 
